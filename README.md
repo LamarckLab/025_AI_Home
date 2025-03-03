@@ -10,3 +10,4 @@
 
 
 ## - AI Knowledge Base
+#### - [AI Base](https://easyai.tech/)
